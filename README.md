@@ -147,7 +147,7 @@ public void Calculate_ReturnsCorrectTotal()
 
 **Meshack Mthimkhulu**  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Meshack132) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/meshackmthimkhulu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/meshackmthimkhulu-software-engineer/))
 
 ---
 
