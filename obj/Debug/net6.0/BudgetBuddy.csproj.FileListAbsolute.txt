@@ -1,0 +1,14 @@
+C:\Users\E1009615\Dev\BudgetBuddy\bin\Debug\net6.0\BudgetBuddy.exe
+C:\Users\E1009615\Dev\BudgetBuddy\bin\Debug\net6.0\BudgetBuddy.deps.json
+C:\Users\E1009615\Dev\BudgetBuddy\bin\Debug\net6.0\BudgetBuddy.runtimeconfig.json
+C:\Users\E1009615\Dev\BudgetBuddy\bin\Debug\net6.0\BudgetBuddy.dll
+C:\Users\E1009615\Dev\BudgetBuddy\bin\Debug\net6.0\BudgetBuddy.pdb
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\BudgetBuddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\BudgetBuddy.AssemblyInfoInputs.cache
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\BudgetBuddy.AssemblyInfo.cs
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\BudgetBuddy.csproj.CoreCompileInputs.cache
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\BudgetBuddy.dll
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\refint\BudgetBuddy.dll
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\BudgetBuddy.pdb
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\BudgetBuddy.genruntimeconfig.cache
+C:\Users\E1009615\Dev\BudgetBuddy\obj\Debug\net6.0\ref\BudgetBuddy.dll

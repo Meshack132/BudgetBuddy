@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\cli\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:cli\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\applicaton\\strategies\\categoryspendingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:applicaton\\strategies\\categoryspendingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\applicaton\\strategies\\totalspendingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:applicaton\\strategies\\totalspendingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\applicaton\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:applicaton\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\domain\\interfaces\\ibudgetstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:domain\\interfaces\\ibudgetstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\infrastructure\\factory\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:infrastructure\\factory\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\infrastructure\\repositories\\jsonexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:infrastructure\\repositories\\jsonexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\domain\\interfaces\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:domain\\interfaces\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|c:\\users\\e1009615\\dev\\budgetbuddy\\domain\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6317744D-C21A-4F05-B6D4-4ED70C8208A7}|BudgetBuddy.csproj|solutionrelative:domain\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategorySpendingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Applicaton\\Strategies\\CategorySpendingStrategy.cs",
+              "RelativeDocumentMoniker": "Applicaton\\Strategies\\CategorySpendingStrategy.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Applicaton\\Strategies\\CategorySpendingStrategy.cs",
+              "RelativeToolTip": "Applicaton\\Strategies\\CategorySpendingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:23:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TotalSpendingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Applicaton\\Strategies\\TotalSpendingStrategy.cs",
+              "RelativeDocumentMoniker": "Applicaton\\Strategies\\TotalSpendingStrategy.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Applicaton\\Strategies\\TotalSpendingStrategy.cs",
+              "RelativeToolTip": "Applicaton\\Strategies\\TotalSpendingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:21:47.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBudgetStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Domain\\Interfaces\\IBudgetStrategy.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBudgetStrategy.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Domain\\Interfaces\\IBudgetStrategy.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBudgetStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:49:01.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Infrastructure\\Factory\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factory\\RepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Infrastructure\\Factory\\RepositoryFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factory\\RepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:44:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BudgetService.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Applicaton\\Services\\BudgetService.cs",
+              "RelativeDocumentMoniker": "Applicaton\\Services\\BudgetService.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Applicaton\\Services\\BudgetService.cs",
+              "RelativeToolTip": "Applicaton\\Services\\BudgetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:33:28.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Infrastructure\\Repositories\\JsonExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\JsonExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Infrastructure\\Repositories\\JsonExpenseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\JsonExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:27:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Domain\\Interfaces\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Domain\\Interfaces\\IExpenseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:18:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Domain\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Domain\\Models\\Expense.cs",
+              "RelativeToolTip": "Domain\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:12:05.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\CLI\\Menu.cs",
+              "RelativeDocumentMoniker": "CLI\\Menu.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\CLI\\Menu.cs",
+              "RelativeToolTip": "CLI\\Menu.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:08:29.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\E1009615\\Dev\\BudgetBuddy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:00:23.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
